@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":[]}
+{"version":1,"defects":{"Warning":6,"SampleTest::testTrueAssertsToTrue":3,"UserTest::testThatWeCanGetTheFristName":4,"UserTest::testLastName":3,"UserTest::testFullUserName":3,"UserTest::testFirstAndLastNameAreTrimed":3,"UserTest::testEmailAddressCanBeSet":4},"times":{"Warning":0.004,"SampleTest::testTrueAssertsToTrue":0.003,"UserTest::testThatWeCanGetTheFristName":0,"UserTest::testLastName":0,"UserTest::testFullUserName":0,"UserTest::testFirstAndLastNameAreTrimed":0,"UserTest::testEmailAddressCanBeSet":0}}
